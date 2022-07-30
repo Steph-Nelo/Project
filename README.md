@@ -1,2 +1,2 @@
 # Project
-Built random text generator
+Build random text generator
